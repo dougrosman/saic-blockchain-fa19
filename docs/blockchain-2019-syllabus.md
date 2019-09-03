@@ -11,8 +11,7 @@ Doug Rosman, Lecturer | drosman@saic.edu | <a href="http://dougrosman.com" targe
 
 
 #### EMAIL POLICY
-Whether you're a student or faculty, we are all inundated with emails. Sometimes they slip by me. If I don't respond to your email within 24 hours (or 12 if it's urgent), don't hesitate to give me a nudge. Just passive-aggressively reply to the original email you sent me with something along the lines of "psst. hey." I won't be offended or think you're needy :). That said, I'll only respond to emails between 8am-8pm. Boundaries are important!
-<br>
+Whether you're a student or faculty, we are all inundated with emails. Sometimes they slip by me. If I don't respond to your email within 24 hours (or 12 if it's urgent), don't hesitate to give me a nudge. Just passive-aggressively reply to the original email you sent me with something along the lines of "psst. hey." I won't be offended or think you're needy :)
 
 Don't hesitate to reach out!
 
@@ -50,116 +49,226 @@ Nathan Jones & Sam Skinner (2017)<br>
 
 
 
+
+##### "In practice, we do not use the blockchain, but we would invite the reader to imagine that we do, as it makes the technical development significantly easier, without materially affecting the experience."
+
+I. Blockchain fundamentals: this portion of the semester will emphasize "blockchain thinking," a process whereby your brain starts to automatically filter your day-to-day thoughts and interactions through a "but what if that, plus blockchain?" Whether it's the Internet, Big Data, The Cloud, Artificial Intelligence, or Blockchain, broad, difficult to define technologies always provide opportunities for broad (mis)understandings. This portion of the semester will focus more on conceptual development of blockchains.
+    * past/history
+    * present
+    * future(s)
+    * cultural context
+    * blockchain thinking
+II. Creating for the blockchain
+    * Javascript fundamentals
+    * web3.js
+    * Solidity
+    * Smart Contracts
+III. Applications
+    * Creating a project around the blockchain
+
+
+
+
 ## COURSE SCHEDULE
 _Following each lecture, materials from the day such as referenced artists, artworks, articles and tutorials will be compiled into a webpage and posted on the class website._
 
+#### Note: This is a new course in a dynamic emerging field. Our movement along this scheduled route is subject to deviation based on the general direction of student projects and a variety of unpredictable factors. 
 
-### Week 01 — 2019-09-03
+ 
 
-#### Morning
-Introductions<br>
-Syllabus
+Week 1. 1/29: HOME / HOUSE
 
-#### Afternoon
+
+### Week 01 — 2019-09-03: Introductions
+
+1. Introductions
+1. Syllabus
+1. What is a blockchain part I?
+1. What is a blockchain part II?
+1. Introductions to artist works
 
 ##### Readings
 1. <a href="http://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf" target="blank">_Artists Re:Thinking the Blockchain_</a> p. 9-37 (A Quasi Proto Preface, Introduction)
-2. Bitcoin White Paper
+2. <a href="https://www.theverge.com/2018/3/7/17091766/blockchain-bitcoin-ethereum-cryptocurrency-meaning" target="blank">_'Blockchain' is Meaningless_</a> – The Verge
+
 
 ##### Assignments
-3 Questions based on the reading + blockchain is...
+1. 3 Questions based on the reading
+1. 5 words you want to know more about
+1. _A blockchain is..._ assignment
 
-## Week 02 — 2019-09-10
-#### Morning
-#### Afternoon
+## Week 02 — 2019-09-10: Blockchain technology
+1. Introduction to cryptography and security
+1. Introduction to decentralized networks
+1. Introduction to mining/consensus algorithms
+1. alt-coins
+1. _Proof-of-Event_ workshop
+##### Readings
+1. Bitcoin White Paper
+1. Attack of the 50 foot blockchain: Chapter 6 (Who is Satoshi Nakamoto)
+##### Assignments
+
+## Week 03 — 2019-09-17: Crypto-collectibles and custom tokens
+Cryptopunks
+Cryptokitties
+Rare Pepes
+Create tokens with counterparty
 ##### Readings
 ##### Assignments
 
-## Week 03 — 2019-09-17
-#### Morning
-#### Afternoon
+## Week 04 — 2019-09-24: The Art World
+* Tracking provenance
+* Exchanging art
+##### Readings
+Artists Re:Thinking the Blockchain: Collections Management on the Blockchain: A Return to the Principles of the Museum (pg. 261 - )
+When Crypto Meets Conceptual Art, Things Get Weird: https://www.nytimes.com/2018/06/05/arts/design/cryptocurrency-blockchain-art-kevin-abosch.html
+##### Assignments
+Midterm Proposal
+
+## Week 05 — 2019-10-01: the DAO (Decentralized Autonomous Organization)
+* terra0
+* Make-a-Dao workshop
+* Field Trip: _Re:Working Labor_ to see Stephanie Rothenberg's piece + other works.
+
+##### Readings
+Wendy Chun: On Sourcery and Source Codes
+##### Assignments
+
+
+## Week 06 — 2019-10-08: Javascript fundamentals + p5.js
+##### Readings
+TBD
+##### Assignments
+Javascript Tutorials
+p5.js tutorials
+
+## Week 07 — 2019-10-15: Web3.js/Intro to Solidity
+* Program a blockchain from scratch in Javascript
+* intro to web3.js
+* intro to solidity/ethereum/smart contracts
+##### Readings
+TBD
+##### Assignments
+* Cryptozombies (https://cryptozombies.io/en/course) Solidity Tutorial (Lessons 1 + 2)
+
+## Week 08 — 2019-10-22: Solidity II
+* More solidity!
+##### Readings
+TBD
+##### Assignments
+* Cryptozombies (https://cryptozombies.io/en/course) Solidity Tutorial (Lessons 3 + 4)
+
+## Week 09 — 2019-10-29: Solidity III
+##### Readings
+##### Assignments
+* Cryptozombies (https://cryptozombies.io/en/course) Solidity Tutorial (Lessons 3 + 4)
+
+
+## Week 10 — 2019-11-05 Solidity III
+##### Readings
+##### Assignments
+Final Project Proposal
+
+## Week 11 — 2019-11-12 Incorporating other media
+
+Discuss final project proposals
+Individual meetings to determine technical feasibility of works.
+
+
 ##### Readings
 ##### Assignments
 
-## Week 04 — 2019-09-24
-#### Morning
-#### Afternoon
+## Week 12 — 2019-11-19 Work on Final Projects
 ##### Readings
 ##### Assignments
 
-## Week 05 — 2019-10-01
-#### Morning
-#### Afternoon
-##### Readings
-##### Assignments
-
-## Week 06 — 2019-10-08
-#### Morning
-#### Afternoon
-##### Readings
-##### Assignments
-
-## Week 07 — 2019-10-15
-#### Morning
-#### Afternoon
-##### Readings
-##### Assignments
-
-## Week 08 — 2019-10-22
-#### Morning
-#### Afternoon
-##### Readings
-##### Assignments
-
-## Week 09 — 2019-10-29
-#### Morning
-#### Afternoon
-##### Readings
-##### Assignments
-
-## Week 10 — 2019-11-05
-#### Morning
-#### Afternoon
-##### Readings
-##### Assignments
-
-## Week 11 — 2019-11-12
-#### Morning
-#### Afternoon
-##### Readings
-##### Assignments
-
-## Week 12 — 2019-11-19
-#### Morning
-#### Afternoon
-##### Readings
-##### Assignments
-
-## Week 13 — 2019-11-26
-#### Morning
-#### Afternoon
+## Week 13 — 2019-11-26 Work on Final Projects
 ##### Readings
 ##### Assignments
 
 ## Week 14 — 2019-12-03 (CRIT WEEK NO CLASS)
-#### Morning
-#### Afternoon
+
 ##### Readings
 ##### Assignments
 
-## Week 15 — 2019-12-10
-#### Morning
-#### Afternoon
-##### Readings
-##### Assignments
+## Week 15 — 2019-12-10 Final Project Critiques
 
 
-### Milestones:
 
-* __Midterm__ due Week 9 (10/23)
-* __Final Project Proposal__ due Week 12 (11/13)
-* __Group Exhibition site__ due Week 15 (12/11)
-* __Final Project__ due Week 16 (12/16)
+
+
+
+## A LIST OF THINGS
+
+ 1. Money/Currency
+    1. U.S. Bureau of Engraving and Printing (https://www.moneyfactory.gov/)
+    1. What gives a dollar bill its value?: https://www.youtube.com/watch?v=XNu5ppFZbHo
+    1. Why the US dollar is the king of currencies https://www.youtube.com/watch?v=DIit4e2nNWM
+    1. DeFi: Decentralized Finance https://blog.zerion.io/what-is-defi-and-why-do-we-need-it-d4dc797d490a, https://medium.com/switcheo/switcheo-discovery-what-are-defi-applications-aa79e47ace98
+
+1. Cryptography
+    1. Hashing
+    1. Hashrate
+    1. Nonce
+    1. Public key/private key
+    1. Merkle Trees
+1. Bitcoin
+    1. Satoshi Nakamoto
+    1. Hal Finney
+    1. Nick Szabo
+    1. Craig Wright
+    1. Scalability issues
+        1. Lightning network: https://www.youtube.com/watch?v=rrr_zPmEiME
+1. Ethereum
+    1. Smart Contracts
+    2. Escrow (https://www.zillow.com/home-buying-guide/what-is-escrow/)
+1. Mining
+    1. Bitcoin
+        1. Proof-of-Work
+    1. Ethereum
+        1. Proof-of-Stake
+    1. Running a node
+    1. Mining Pools/Centralization
+    1. Transaction validation
+    1. Propagating Through the network
+    1. Blocksize
+    1. Block Time
+1. Politics
+    1. Anarcho-capitalism
+    1. Crypto-fascism
+1. Collectables/games
+    1. Cryptokitties
+    1. Cryptopunks/Larva labs
+    1. Cryptozombies
+    1. Rob Meyers
+1. Alt-coints
+    1. Stablecoins
+    2. Dogecoin (https://www.trustnodes.com/2019/08/26/businesses-accept-dogecoin-more-than-lightning-network-payments)
+    3. Exposure https://paywithexposure.com/
+1. Wallets
+    1. Hardware Wallets
+    2. My Ether Wallet (MEW)
+1. Crypto real estate
+    1. Cryptovoxels
+    1. Decentraland
+1. Tools we'll need:
+    1. Metamask
+    1. Password manager (lastpass)
+    1. Chrome or Firefox
+1. Tokens
+    1. Custom Tokens
+        1. Counterparty
+        1. Surgecoin
+    1. Counterparty
+    1. List of potential token uses: https://www.reddit.com/r/xdp/comments/2dmnsi/list_of_possible_ways_to_use_tokens/ 
+1. Programming
+    1. http://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.5.1+commit.c8a2cb62.js
+1. Buy Cryptocurrency
+    1. Changelly: https://payments.changelly.com/ - get it into your Metamask account quickly ($50 minimum, high fees)
+1. DAO - Decentralized Autonomous Organization
+    1. terra0
+1. Decentralized Machine Learning
+    1. http://abraham.ai/
 
 
 ### ACCOMMODATIONS FOR STUDENTS WITH DISABILITIES:
