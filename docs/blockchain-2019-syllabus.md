@@ -109,12 +109,13 @@ Week 1. 1/29: HOME / HOUSE
 ##### Assignments
 
 ## Week 03 — 2019-09-17: Crypto-collectibles and custom tokens
-Cryptopunks
-Cryptokitties
-Rare Pepes
-Create tokens with counterparty
+* Cryptopunks
+* Cryptokitties
+* Create tokens with counterparty
 ##### Readings
+TBD
 ##### Assignments
+_Create your own token_ assignment
 
 ## Week 04 — 2019-09-24: The Art World
 * Tracking provenance
