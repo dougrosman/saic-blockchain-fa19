@@ -31,7 +31,7 @@ ___
 ### Assignment
 
 ##### Readings
-1. <a href="http://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf" target="blank">_Artists Re:Thinking the Blockchain_</a> p. 9-37 (A Quasi Proto Preface, Introduction)
+1. <a href="http://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf" target="blank">_Artists Re:Thinking the Blockchain_</a> p. 21-37 (Introduction)
 2. <a href="https://www.theverge.com/2018/3/7/17091766/blockchain-bitcoin-ethereum-cryptocurrency-meaning" target="blank">_'Blockchain' is Meaningless_</a> – The Verge
 
 ##### Assignments
