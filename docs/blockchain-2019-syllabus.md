@@ -18,10 +18,6 @@ Don't hesitate to reach out!
 #### CLASS WEBSITE/MATERIALS
 Class Website: [https://dougrosman.github.io/saic-blockchain-fa19](https://dougrosman.github.io/saic-blockchain-fa19) <br>
 <a href="https://saic.instructure.com/courses/2561005" target="blank">Canvas</a> (99% of course content will be in the class website above, but I will make announcements in Canvas, as that's a pretty good way to reach everyone. Grades and Attendance will also be recorded in Canvas).<br>
-<a href="http://www.saic.edu/academics/departments/academicspine/" target="blank">Spine webpage</a><br>
-
-#### SLACK CHANNEL
-SAIC Web Art FA19 | <a href="https://saic-webart-fa19.slack.com/" target="blank">https://saic-webart-fa19.slack.com/</a><br>
 
 ### COURSE DESCRIPTION
 **_Blockchain: The New Internet_** will explore blockchain technology as a material for artistic practice and deep critical engagement. Blockchain—a technology designed for the secure storage and transmission of data on a decentralized network—is still in its relative infancy, yet its integration into the social fabric has had far-reaching transformations. What began as a system for facilitating digital payments, like Bitcoin, could potentially revolutionize the internet as we know it.
@@ -46,12 +42,14 @@ _In no particular order. Selections from this list will be assigned to relevant 
 <a href="http://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf" target="blank">_Artists Re:Thinking the Blockchain_</a> – Ruth Catlow, Marc Garrett,
 Nathan Jones & Sam Skinner (2017)<br>
 <a href="https://medium.com/kaleidoscope-xcp/adventures-in-artistic-tokenisation-c5adb70ceed9" target="blank">_Adventures in Artistic Tokenisation_</a> – "Nathan Sonic" (2019)
+##### My to-read list (I haven't read these yet...)
+<a href="https://medium.com/s/art-of-code/poetry-isnt-dead-it-just-got-coded-f42eb1112729" target="blank">_A Poet's Case for Blockchain_</a>
 
 
 
+#### "In practice, we do not use the blockchain, but we would invite the reader to imagine that we do, as it makes the technical development significantly easier, without materially affecting the experience."
 
-##### "In practice, we do not use the blockchain, but we would invite the reader to imagine that we do, as it makes the technical development significantly easier, without materially affecting the experience."
-
+### Loose structure for the semester
 I. Blockchain fundamentals: this portion of the semester will emphasize "blockchain thinking," a process whereby your brain starts to automatically filter your day-to-day thoughts and interactions through a "but what if that, plus blockchain?" Whether it's the Internet, Big Data, The Cloud, Artificial Intelligence, or Blockchain, broad, difficult to define technologies always provide opportunities for broad (mis)understandings. This portion of the semester will focus more on conceptual development of blockchains.
     * past/history
     * present
@@ -74,12 +72,9 @@ _Following each lecture, materials from the day such as referenced artists, artw
 
 #### Note: This is a new course in a dynamic emerging field. Our movement along this scheduled route is subject to deviation based on the general direction of student projects and a variety of unpredictable factors. 
 
- 
-
-Week 1. 1/29: HOME / HOUSE
 
 
-### Week 01 — 2019-09-03: Introductions
+### Week 01 — 2019-09-03: Introductions (Updated 09/06/19)
 
 1. Introductions
 1. Syllabus
@@ -87,15 +82,17 @@ Week 1. 1/29: HOME / HOUSE
 1. What is a blockchain part II?
 1. Introductions to artist works
 
+### Assignment
+
 ##### Readings
 1. <a href="http://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf" target="blank">_Artists Re:Thinking the Blockchain_</a> p. 9-37 (A Quasi Proto Preface, Introduction)
 2. <a href="https://www.theverge.com/2018/3/7/17091766/blockchain-bitcoin-ethereum-cryptocurrency-meaning" target="blank">_'Blockchain' is Meaningless_</a> – The Verge
 
-
 ##### Assignments
-1. 3 Questions based on the reading
-1. 5 words you want to know more about
-1. _A blockchain is..._ assignment
+1. __Read the above readings__
+1. __3 Questions based on the reading:__ Write down ANY 3 questions you have from the readings. We'll answer them in class on 09/10!
+1. __3 words you want to know more about:__ Similar to the questions, write down 5 words you come across that confuse or intrigue you. I encourage you to Google your five words to know more, but it'd be great to also look at your words in class, and see what other people are interested in
+1. __A blockchain is...:__ In your own words, write a 1-2 sentence summary of a blockchain. If your answer is still "idk" that's fine :). We'll do this assignment a few times over the semester as our knowledge grows. Feel free to be poetic.
 
 ## Week 02 — 2019-09-10: Blockchain technology
 1. Introduction to cryptography and security
