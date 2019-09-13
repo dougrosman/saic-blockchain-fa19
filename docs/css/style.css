@@ -1,0 +1,44 @@
+html {
+    font-size: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Saira Extra Condensed, sans-serif;
+}
+h1 {
+    text-align: center;
+    font-size: 8rem;
+    color: #eecc00;
+    margin: 0rem;
+    padding: 1rem;
+}
+
+#subtitle {
+    position: relative;
+    text-align: center;
+    font-size: 4em;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -4rem;
+}
+
+p {
+    font-family: Spectral, Georgia, serif;
+    font-size: 2rem;
+ }
+
+a {
+    font-family: Spectral, Georgia, serif;;
+    font-size: 2rem;
+    transition: 1000ms;
+ }
+
+a:hover {
+    font-size: 2.5rem;
+    color: orange;
+}
+
+
+
+
+
