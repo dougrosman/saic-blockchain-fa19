@@ -7,38 +7,117 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
     text-align: center;
-    font-size: 8rem;
+    font-size: 10rem;
+    line-height: 8rem;
     color: #eecc00;
+    margin: 3rem;
+    padding: 1.5rem;
+}
+
+h3 {
+    font-size: 6rem;
+    line-height: 4rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+h4 {
+    font-size: 4rem;
+}
+
+h5 {
+    font-size: 3rem;
     margin: 0rem;
     padding: 1rem;
+    font-weight: 400;
+}
+
+h5.main-page {
+    text-align: center;
+}
+
+h5.schedule{
+    margin-bottom: -4rem;
+    padding-left: 0rem;
+    color: #dd0000;
+    font-weight: 200;
+}
+
+h6 {
+    font-size: 2rem;
+    font-weight: 800;
+    margin-left: 5%;
+    margin-bottom: -1rem;
 }
 
 #subtitle {
     position: relative;
     text-align: center;
-    font-size: 4em;
     margin-right: auto;
     margin-left: auto;
     margin-top: -4rem;
+    margin-bottom: -2rem;
 }
 
 p {
     font-family: Spectral, Georgia, serif;
     font-size: 2rem;
+    color: black;
+ }
+
+ul {
+    font-family: Spectral, Georgia, serif;
+    font-size: 2rem;
+    color: black;
+    list-style-type: square; 
  }
 
 a {
     font-family: Spectral, Georgia, serif;;
     font-size: 2rem;
-    transition: 1000ms;
+    color: #222222;
+    transition: 250ms;
+    line-height: 2.5rem;
  }
 
 a:hover {
-    font-size: 2.5rem;
-    color: orange;
+    font-size: 2.2rem;
+    color: #eecc00;
+}
+
+#main-menu {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 1rem;
+    width: 80%;
+    height: 40px;
 }
 
 
+.main-nav {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 2rem;
+    margin: 1rem;
+    transition: 100ms;
+}
+
+a.main-nav:hover {
+    font-size: 1.6rem;
+    color: #ee0000;
+}
+
+#schedule {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -40px;
+    width: 60%;
+}
+
+.session {
+    width: 80%;
+}
 
 
 
