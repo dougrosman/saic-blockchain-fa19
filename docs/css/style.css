@@ -39,7 +39,6 @@ h5.main-page {
 h5.schedule{
     margin-bottom: -4rem;
     padding-left: 0rem;
-    color: #dd0000;
     font-weight: 200;
 }
 
@@ -107,6 +106,15 @@ a.main-nav:hover {
     font-size: 1.6rem;
     color: #ee0000;
 }
+a.schedule:link{
+    text-decoration: none;
+    color: #ee0000;
+    transition: 250ms;
+}
+a.schedule:hover {
+    color: #cc00ff;
+    font-size: 1.5em;
+}
 
 #schedule {
     margin-right: auto;
@@ -117,7 +125,39 @@ a.main-nav:hover {
 
 .session {
     width: 80%;
+    background-color: orange;
+    margin-right: auto;
+    margin-left: auto;
 }
+
+.session-left {
+    width: 46%;
+    background-color: pink;
+    margin-right: auto;
+    margin-left: auto;
+    float:left;
+}
+
+.session-right {
+    width: 46%;
+    background-color: green;
+    margin-right: auto;
+    margin-left: auto;
+    float:right;
+}
+
+/* .session-left {
+    width: 50%;
+    background-color: pink;
+    margin-bottom: -2rem;
+} */
+
+/* .session-right {
+    width: 50%;
+    background-color: green;
+    margin-bottom: -2rem;
+   
+} */
 
 
 
