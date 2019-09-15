@@ -112,12 +112,15 @@ a.schedule:link{
     font-size: 3.6rem;
     text-decoration: none;
     color: #ee0000;
-    transition: 200ms;
+    transition: 100ms;
+}
+a.schedule:visited {
+    color: #ee0000;
 }
 a.schedule:hover {
-    font-size: 1.01em;
     color: #eecc00;  
 }
+
 
 #schedule {
     margin-right: auto;
