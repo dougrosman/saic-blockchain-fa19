@@ -82,7 +82,7 @@ a {
     line-height: 2.5rem;
  }
 
-a.home {
+#home {
     font-family: Saira Extra Condensed, sans-serif;
     text-align: center;
     font-size: 10rem;
