@@ -43,10 +43,11 @@ h5.schedule{
 }
 
 h6 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 800;
     margin-left: 5%;
     margin-bottom: -1rem;
+    
 }
 
 #subtitle {
@@ -62,25 +63,26 @@ p {
     font-family: Spectral, Georgia, serif;
     font-size: 2rem;
     color: black;
+    margin-bottom: -2rem;
  }
 
 ul {
     font-family: Spectral, Georgia, serif;
     font-size: 2rem;
     color: black;
-    list-style-type: square; 
+    list-style-type: square;
  }
+
 
 a {
     font-family: Spectral, Georgia, serif;;
     font-size: 2rem;
     color: #222222;
-    transition: 250ms;
+    transition: 200ms;
     line-height: 2.5rem;
  }
 
 a:hover {
-    font-size: 2.2rem;
     color: #eecc00;
 }
 
@@ -99,65 +101,62 @@ a:hover {
     font-size: 1.5rem;
     padding: 2rem;
     margin: 1rem;
-    transition: 100ms;
+    transition: 50ms;
 }
 
 a.main-nav:hover {
-    font-size: 1.6rem;
-    color: #ee0000;
+    color: #eecc00;
 }
 a.schedule:link{
+    font-family: Saira Extra Condensed, sans-serif;
+    font-size: 3.6rem;
     text-decoration: none;
     color: #ee0000;
-    transition: 250ms;
+    transition: 200ms;
 }
 a.schedule:hover {
-    color: #cc00ff;
-    font-size: 1.5em;
+    font-size: 1.01em;
+    color: #eecc00;  
 }
 
 #schedule {
     margin-right: auto;
     margin-left: auto;
     margin-top: -40px;
-    width: 60%;
+    width: 70%;
 }
 
-.session {
-    width: 80%;
-    background-color: orange;
+div.session {
+    width: 100%; 
     margin-right: auto;
     margin-left: auto;
+    padding: 20px;
+    margin-bottom: 10px;
 }
 
-.session-left {
-    width: 46%;
-    background-color: pink;
+div.even {
+    background-color: rgba(20, 20, 20, .1);
+}
+
+div.session::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+div.session-left {
+    width: 48%;
     margin-right: auto;
     margin-left: auto;
     float:left;
 }
 
-.session-right {
-    width: 46%;
-    background-color: green;
+div.session-right {
+    width: 48%;
     margin-right: auto;
     margin-left: auto;
     float:right;
 }
-
-/* .session-left {
-    width: 50%;
-    background-color: pink;
-    margin-bottom: -2rem;
-} */
-
-/* .session-right {
-    width: 50%;
-    background-color: green;
-    margin-bottom: -2rem;
-   
-} */
 
 
 
