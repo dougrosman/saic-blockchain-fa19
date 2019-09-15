@@ -82,6 +82,17 @@ a {
     line-height: 2.5rem;
  }
 
+a.home {
+    font-family: Saira Extra Condensed, sans-serif;
+    text-align: center;
+    font-size: 10rem;
+    line-height: 8rem;
+    color: #eecc00;
+    margin: 3rem;
+    padding: 1.5rem;
+    text-decoration: none;
+}
+
 a:hover {
     color: #eecc00;
 }
@@ -98,7 +109,7 @@ a:hover {
 
 .main-nav {
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 2rem;
     padding: 2rem;
     margin: 1rem;
     transition: 50ms;
