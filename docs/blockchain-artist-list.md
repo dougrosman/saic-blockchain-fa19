@@ -3,7 +3,7 @@
 
 1. Rob Meyers
     1. https://robmyers.org/category/crypto/
-    
+
 1. O'KHAOS
     1. Plantoids: http://okhaos.com/plantoids/
 1. Paul Seidler/Max Hampshire/Paul Kolling/Andi Rueckel

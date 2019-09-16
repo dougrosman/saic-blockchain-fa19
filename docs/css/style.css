@@ -132,8 +132,17 @@ a.schedule:hover {
     color: #eecc00;  
 }
 
+ul.artists {
+    list-style: none;
+}
 
 #schedule {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -40px;
+    width: 70%;
+}
+#artists {
     margin-right: auto;
     margin-left: auto;
     margin-top: -40px;
