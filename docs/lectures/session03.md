@@ -21,9 +21,9 @@ go to lastpass.com
 1. Enter it to log in
 1. Agree to the terms of service
 1. visit a testnet faucet to get some test Bitcoins (https://99bitcoins.com/best-bitcoin-faucets/)
-    1. https://testnet-faucet.mempool.co/ (works ater about ~10)
-    1. https://coinfaucet.eu/en/btc-testnet/ (works after about ~3-5)
-    1. https://bitcoinfaucet.uo1.net/send.php (.00099 BTC)
+    1. <a href="https://testnet-faucet.mempool.co/" target="_blank">https://testnet-faucet.mempool.co/</a> (works ater about ~10)
+    1. <a href="https://coinfaucet.eu/en/btc-testnet/" target="_blank">https://coinfaucet.eu/en/btc-testnet/" target="_blank</a> (works after about ~3-5)
+    1. <a href="https://bitcoinfaucet.uo1.net/send.php" target="_blank">https://bitcoinfaucet.uo1.net/send.php</a> (.00099 BTC)
 1. once you have BTC, in your wallet "burn" it for XCP. You only need .5XCP to create a named token, so you don't need to burn much BTC.
 1. Create an Asset!
     1. click the blue 'Address Actions' button and click 'Create a Token (Asset)'
