@@ -1,7 +1,6 @@
 
 
 ## Notes
-* <a href="https://www.furtherfield.org/conceptual-art-cryptocurrency-and-beyond/" target="blank">https://www.furtherfield.org/conceptual-art-cryptocurrency-and-beyond/</a>
 
 ### Artists/Artworks
 * <a href="https://www.daros-latinamerica.net/ensayo/cildo-meireles-insertions-ideological-circuits" target="blank"><em>Insertions Into Ideological Circuits</em></a> – Cildo Meireles (1970)
