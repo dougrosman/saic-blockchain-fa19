@@ -35,30 +35,3 @@ go to lastpass.com
 
 #### GitHub Introduction
 Check out the guide [here](https://dougrosman.github.io/saic-blockchain-fa19/resources/gitguide)
-
-
-#### Assignment:
-<p><strong>Read:</strong></p>
-                <ul>
-                    <li>
-                        <a href="http://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf" target="blank"><em>Artists Re:Thinking the Blockchain</em></a>
-                        <ul>
-                            <li>p. 51-62 <em>(Plantoid – The Birth of a Blockchain-Based Lifeform</em>–Primavera De Filippi)</li>
-                            <li>p. 63-72 <em>(terra0 – Can an Augmented Forest  Own and Utilize Itself?</em>–Paul Seidler, Paul Kolling & Max Hampshire)</li>
-                            <li>p. 171-178 <em>(History of Political Operating Systems: Interview with Dr. L. Godord</em>–Elli Kurus) (fiction)</li>
-                            <li>p. 233-237 <em>(immutability mantra)</em>–Ben Vickers)</li>
-                            <li><strong>Bonus:</strong> p. 223-232 <em>(If You Don’t Have Bread, Eat Art!: Contemporary Art and Derivative Fascisms)</em>–Hito Steyerl</li>
-                            <li><strong>Bonus:</strong> p. 261-274 <em>(Collections Management on the Blockchain: A Return to the Principles of the Museum</em>–Helen Kaplinsky)</li>
-                            <li><strong>Bonus:</strong> p. 287-295 <em>(Everything You’ve Always Wanted to Know About the Blockchain* (*But Were Afraid to Ask Mel Ramsden)</em>–Martin Zeilinger)</li>
-                        </ul>
-                        </li>
-                        <li>
-                        <a href="readings/Wendy-Hui-Kyong-Chun-On_Sourcery_and_Source_Codes.pdf" target="blank"><em>On Sourcery and Source Codes</em>–Wendy Chun</a>
-                    </li>
-                    </ul>
-
-
-                                                
-
-
-
