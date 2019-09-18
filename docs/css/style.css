@@ -132,6 +132,18 @@ a.schedule:hover {
     color: #eecc00;  
 }
 
+#simple-bc {
+    width: 50%;
+    text-align: center;
+    margin: 50px auto 0 auto;
+    
+}
+
+#simple-diag {
+    width: 100%;
+    height: 100%;
+}
+
 ul.artists {
     list-style: none;
 }
@@ -181,5 +193,8 @@ div.session-right {
     float:right;
 }
 
+.resources {
+    font-size: 1.2em;
+}
 
 

@@ -32,10 +32,18 @@ go to lastpass.com
 1. wait for your asset to be confirmed.
 1. Send it to other people: Post your public address in a collabedit.
 
-#### setting up metamask
 
 #### github tutorial
 
+
+#### Assignment:
+###### Read:
+* ...
+* ...
+
+###### Do:
+* ...
+* ...
 
 
 
