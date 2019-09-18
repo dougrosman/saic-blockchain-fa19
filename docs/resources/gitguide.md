@@ -1,4 +1,4 @@
-# git gud at git! (and GitHub)
+# git and GitHub!
 
 GitHub, like most powerful tools, can be a bit uncomfortable to use until you get familiar with it. Here's a to-the-point guide for the way we'll be using GitHub in class.
 
