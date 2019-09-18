@@ -197,4 +197,6 @@ div.session-right {
     font-size: 1.2em;
 }
 
-
+.spacer {
+    height: 100px;
+}
