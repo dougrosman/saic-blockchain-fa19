@@ -173,6 +173,7 @@ div.even {
     background-color: rgba(20, 20, 20, .1);
 }
 
+
 div.session::after {
     content: "";
     display: block;
