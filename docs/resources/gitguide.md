@@ -1,6 +1,6 @@
 # git and GitHub!
 
-GitHub, like most powerful tools, can be a bit uncomfortable to use until you get familiar with it. Here's a to-the-point guide for the way we'll be using GitHub in class.
+Here's a to-the-point guide for the way we'll be using GitHub in class.
 
 **_Note:_** You'll see some steps that tell you to do something, and then there will be some command line syntax
 ```
