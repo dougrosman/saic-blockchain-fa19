@@ -7,7 +7,9 @@ Here's a to-the-point guide for the way we'll be using GitHub in class.
 $ That looks like this below it
 ```
 When you see those command line prompts, you can copy and paste them into the terminal, _but don't copy the $ at the beginning–just the text that follows it._ <br>
-___
+
+---
+
 ### Part 1: Starting from Scratch
 ### Part 2: Regular GitHub usage after initial setup
 __If you've already cloned your repository on your local machine, scroll down toward the bottom of this page to Part 2.__
