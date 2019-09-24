@@ -133,8 +133,6 @@ console.log('\n Starting the miner...');
 coolCoin.minePendingTransactions('doog');
 
 console.log('\nBalance of doog is', coolCoin.getBalanceOfAddress('doog'));
-
-console.log('\n Starting the miner...');
 coolCoin.minePendingTransactions('doog');
 
 console.log('\nBalance of doog is', coolCoin.getBalanceOfAddress('doog'));
