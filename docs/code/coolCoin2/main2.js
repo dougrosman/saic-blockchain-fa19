@@ -23,7 +23,7 @@ calculateHash() {
 }
 
 mineBlock(difficulty) {
-    while(this.hash.substring(0, difficulty) !== Array(difficulty + 1).join("1"))
+    while(this.hash.substring(0, difficulty) !== Array(difficulty + 1).join("0"))
     {
         this.nonce++;
         this.hash = this.calculateHash();
@@ -41,7 +41,7 @@ class Blockchain {
 
     constructor() {
         this.chain = [this.createGenesisBlock()];
-        this.difficulty = 3;
+        this.difficulty = 5;
     }
 
     // we always need a genesis block when a blockchain is created
