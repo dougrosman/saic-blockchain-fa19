@@ -22,7 +22,8 @@
 1. Install node.js (<a href="https://nodejs.org/en/" target="blank">https://nodejs.org/en/</a>) (needed for npm to install crypto-js so we can use SHA256)
 1. Write some more code!
 1. Once the code has been written, test it out!
-    1. Open up a terminal windo and type ` node main.js `
+    1. Open up a terminal windo and type ` node main.js ` to run your code!
+1. Repeat the code writing/testing until you're done with the workshop!
 
 
 ## Reference
